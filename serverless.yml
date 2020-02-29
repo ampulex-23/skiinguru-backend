@@ -2,7 +2,7 @@ service: skiinguru-backend-app
 
 provider:
   name: aws
-  runtime: nodejs5.0
+  runtime: nodejs4.0
 
 functions:
   createUser:

@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\u0016This app connects three sides: instructors (black or white), clients and the resort administration (which finaly defines the rules and ofcourse tooks good commision). The resort now makes money on black instructors  instead of spending it on patrol service who chase them on slopes. Instructors gives all required docs on registration and also passes all quality validation tests of NLI remotely. Also instructor gives all needed docs to federal tax service and app pays the tax automaticly. So this app makes work of black instructors absolutely white and everyone happy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run lint\u001b[D\u001b[D\u001b[D\u001b[D\u001b[1;6D\u001b[1;6D\u001b[C\u001b[C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ampulex-23/skiinguru-backend.git"
+  },
+  "author": "Igor Nikitin",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/skiinguruteam/serverless-backend#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "mongoose": "^5.9.2"
+  }
+}

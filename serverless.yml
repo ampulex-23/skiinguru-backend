@@ -1,8 +1,10 @@
+org: inikitin
+app: skiinguru-backend-app
 service: skiinguru-backend-app
 
 provider:
   name: aws
-  runtime: nodejs4.0
+  runtime: nodejs12.x
 
 functions:
   createUser:
